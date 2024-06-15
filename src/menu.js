@@ -92,7 +92,7 @@ function Toggle() {
           <MenuItem>Bookmarks</MenuItem>
           <MenuItem>Lists</MenuItem>
           <MenuItem>Profile</MenuItem>
-          <MenuItem>More</MenuItem>
+          <MenuItem>More..</MenuItem>
         </MenuList>
       </Sidebar>
     </ToggleContainer>
