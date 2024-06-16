@@ -87,12 +87,12 @@ function Toggle() {
         <MenuList>
           <MenuItem>Home</MenuItem>
           <MenuItem>Explore</MenuItem>
-          <MenuItem>Notifications</MenuItem>
-          <MenuItem>Messages</MenuItem>
+          <MenuItem>CoursesList</MenuItem>
+          <MenuItem>Rating</MenuItem>
           <MenuItem>Bookmarks</MenuItem>
-          <MenuItem>Lists</MenuItem>
-          <MenuItem>Profile</MenuItem>
-          <MenuItem>More..</MenuItem>
+          <MenuItem>signup</MenuItem>
+          <MenuItem>Login</MenuItem>
+          <MenuItem>About</MenuItem>
         </MenuList>
       </Sidebar>
     </ToggleContainer>
